@@ -2,6 +2,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Navjot Singh</h1>
 <h3 align="center">A Python Developer and a serious programmer</h3>
 
+<p align="center">
+<img src="https://telegra.ph/file/7baef19d43a7fca0f3467.jpg" alt="DeadAnonymous">
+
 I am a It engineering Student and i loves to learn and create new things
 - 🔭 I’m currently working on [Thunderuserbot](https://github.com/Thundergang/thunderuserbot)
 
