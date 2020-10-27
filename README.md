@@ -18,6 +18,6 @@ I am a It engineering Student and i loves to learn and create new things
 
 - 🤍 Check out my portfolio for knowing more about me: [Click Here](https://deadanonymous.github.io/)
 
-
+- Checkout my new project a Digital mutilpurpose Blackboard [here](https://deadanonymous.github.io/Digitalblackboard/)
  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=deadanonymous&show_icons=true" alt="deadanonymous" /> </p>
 
